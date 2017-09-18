@@ -1,0 +1,27 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestNG Learning - Tsys">
+
+
+<test name="Login test">
+    <classes>
+        <class name="TestCase1" ></class>  
+    </classes>
+</test>
+
+<test name="Second test">
+    <classes>
+        <class name="TestCase2" ></class>  
+    </classes>
+</test>
+
+
+<test name="Excel test">
+    <classes>
+        <class name="TestParameterization" ></class>  
+    </classes>
+</test>
+
+
+
+
+</suite>
